@@ -1,0 +1,4 @@
+{"mobilenetv2Lite": {"model": "mobilenetv2", "labels": ["Background", "Malignant", "Benign"], "path":"./inference/models/mobilenetv2.tflite"},
+"resnet50": {"model": "resnet50", "labels": ["Background", "Malignant", "Benign"], "path":"./inference/models/resnet50.tflite"},
+"efficientnet0": {"model": "efficientnet0", "labels": ["Background", "Malignant", "Benign"], "path":"./inference/models/efficientnet0.tflite"},
+"inceptionV3": {"model": "inceptionv3", "labels": ["Background", "Malignant", "Benign"], "path":"./inference/models/inceptionv3.tflite"}}
